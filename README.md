@@ -1,11 +1,12 @@
 # Daily Expense & Income Tracker (Excel)
-
 ## 📌 Overview  
 This is a simple **Daily Expense & Income Tracker** created in **Microsoft Excel** to help users track their financial transactions. It includes:  
 ✅ Expense & Income Records  
 ✅ Summary Dashboard  
 ✅ Search Functionality  
 ✅ Cash & Bank Balance Tracking  
+
+![Temp](https://github.com/user-attachments/assets/4135cab8-2043-4bfc-b7ac-3d9b8a6499ec)
 
 ## 🔧 Features  
 - Auto calculates total income & expenses  
